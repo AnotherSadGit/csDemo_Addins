@@ -1,0 +1,1 @@
+Demonstrates how to create a Visual Studio add-in.
